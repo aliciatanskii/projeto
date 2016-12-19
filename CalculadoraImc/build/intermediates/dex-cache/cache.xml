@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_6cf9d7257205af0924de238f4db4b0a060960a96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_35e0565c1ba58b042d1e4108375c6ec5ca6851a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_7233f24680703a716f0eae7473f9cff4816578ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_df88ae38b66d68ab39d0c5b66a1e3db6d7098455.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_53cf6491f145c4d9051b6983af06314e5fb5c628.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4dca7bfa88ce97b55b52e4ba1914bfe86cfbbe">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\instant-run_df34753a6cfa95d5ceaceebe62712e374916925d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_fc5dc39cad0273b3040a4d865954c0315f8d29a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_6dd52a2d28cbe102980a15d8abcb5554c19e5d1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_92593d5a9f5813a55139d82195026bf7fd6d9a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_6ce4b2bcaea08165b56f4a93e9c9d0b0bd8c4815.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd70c4cc9c37dd63c1d4ea220f2e27a7a0df5b9f">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_18474ff123a0ef2548baebda41db8bb6294f7105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_c86ae838964f7aec678e79b84e5000bb23bd00d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_2c3fb069c9942820904ee2908b8b9b4d3b0ab1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_3194cccb758efd009c27696574f714d86bcb137c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_2da8572e513bc27a0a2f2b1e37d15f2a82ff25dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_7170ec253f256c5a71d0f89242e63f8bae5d4a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_cce7203508cb2a5ffca360ff1e2164e8ac72fbca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_51ab30143fbff50b8779a9626e6d377c1c44e7c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_b77fdad348454943eb1233eb79e88055266e71af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="C:\Users\TI\AndroidStudioProjects\CalculadoraImc\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_ed6b5b8c3b3b69cd2c56e190fec57fccf924c5c8.jar" />
+    </item>
+
+</items>
